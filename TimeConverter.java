@@ -4,7 +4,7 @@ import java.util.Scanner;
  * A program to convert time unit.
  *
  * Project 2
- * @author Shuangchen Zhou    COMP 1210-001
+ * @author leah16   COMP 1210-001
  * @version 2018/09/04
  */
  
