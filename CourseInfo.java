@@ -3,7 +3,7 @@
  *
  * @author Your name
  * @version today's date
- * Revised by leah16
+ * 
  */
 public class CourseInfo 
 {
