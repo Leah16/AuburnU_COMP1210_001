@@ -2,10 +2,10 @@ import java.util.Scanner;
 import java.text.DecimalFormat;
 
 /**
- * A program to use the formula.
+ *
  *
  * Project 3
- * @author Shuangchen Zhou    COMP 1210-001
+ * @author leah16    COMP 1210-001
  * @version 2018/09/12  ver.1.0
  */
  
