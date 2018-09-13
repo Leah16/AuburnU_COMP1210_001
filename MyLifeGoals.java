@@ -1,9 +1,6 @@
 /**
  * A program to print my goals. 
  *
- * Object 1
- * @author Shuangchen Zhou  COMP 1210 - 001 
- * @version 2018-08-26 1.0 
  */
 public class MyLifeGoals
 {
