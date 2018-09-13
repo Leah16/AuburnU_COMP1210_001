@@ -1,9 +1,9 @@
 /**
- * A program to print beatiful JAVA pattern. 
+ * 
  *
  * Object 1
- * @author Shuangchen Zhou  COMP 1210 - 001 
- * @version 2018-08-26 1.0 
+ * @author leah16  COMP 1210 - 001 
+ * @version 
  */
 public class JLetter
 {
