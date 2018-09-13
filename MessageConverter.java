@@ -5,8 +5,8 @@ import java.util.Scanner;
  * A program to convert different kinds of msg.
  *
  * Activity 3
- * @author Shuangchen Zhou    COMP 1210-001
- * @version 2018/09/09  ver.1.0
+ * @author leah16
+ * @version 
  */
 
 public class MessageConverter 
