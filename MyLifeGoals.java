@@ -12,16 +12,8 @@ public class MyLifeGoals
    {
       System.out.println("Shuangchen Zhou");
       System.out.println();
-      System.out.println("Learn basic programming content, how to call "
-         + "the basic interface and the operating system. And can apply " 
-         + "theoretical knowledge to actual programming.");
-      System.out.println("Get a better GPA at Auburn University undergraduate "
-         + "study and try to apply for a scholarship. In addition to " 
-         + "participating in some IT community to strengthen " 
-         + "my programming skills.");
-      System.out.println("Organize and build a programming team, "
-         + "I hope to develop a software or game of my own before "
-         + "I graduate from college. And successfully found a "
-         + "job after graduation.");
+      System.out.println("");
+      System.out.println("");
+      System.out.println("");
    }
 }
