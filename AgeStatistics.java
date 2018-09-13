@@ -1,17 +1,17 @@
 import java.util.Scanner;
 
 /**
- * A program to help user to find their age and max heart rate.
+ * 
  *
  * Activity 2
- * @author Shuangchen Zhou    COMP 1210-001
- * @version 2018/09/03
+ * @author 
+ * @version 
  */
 
 public class AgeStatistics
 {
    /**
-    * Helpping users to calculate their personal data. 
+    * 
     * @param args Command line arguments – not used.
     */
 
