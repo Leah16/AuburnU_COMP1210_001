@@ -3,10 +3,10 @@ import java.text.DecimalFormat;
 import java.util.Random;
 
 /**
- * A program to help people find ticket infomation.
+ * 
  *
  * Project 3
- * @author Shuangchen Zhou    COMP 1210-001
+ * @author leah16    COMP 1210-001
  * @version 2018/09/12  ver.1.0
  */
  
@@ -15,7 +15,7 @@ public class FootballTicket
    static final double STUDENT_DISCOUNT = 0.67;
    static final double FACULTY_STAFF_DISCOUNT = 0.20;
    /**
-    * Prints infomation from ticket.
+    * 
     * @param args Command line arguments – not used.
     */
      
